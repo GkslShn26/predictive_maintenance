@@ -4,7 +4,7 @@ Machines average lifetime of 55 weeks
 In dataset almost 40 % of the machines broken in the past two years.
 
 
-     lifetime        broken       pressureInd      moistureInd    
+#     lifetime        broken       pressureInd      moistureInd    
   Min.   : 1.0   Min.   :0.000   Min.   : 33.48   Min.   : 58.55  
   1st Qu.:34.0   1st Qu.:0.000   1st Qu.: 85.56   1st Qu.: 92.77  
   Median :60.0   Median :0.000   Median : 97.22   Median : 99.43  
